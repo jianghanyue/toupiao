@@ -62,6 +62,9 @@ export default {
   border-radius: 3px;
   color: #fff;
 }
+.yitou{
+  margin-top: 10px;
+}
 .yitou button{
   background-color: blue;
   border-radius: 3px;

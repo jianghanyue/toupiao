@@ -49,7 +49,7 @@ export default {
 .add button{
   border: 0;
   outline: 0;
-  background-color: #e91e63;
+  background-color: red;
   border-radius: 5px;
   color: #fff;
   margin-left: 3px;
